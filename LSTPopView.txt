@@ -1,0 +1,6 @@
+
+由于demo比较大 所以请自行去github下载
+
+源码: https://github.com/LoSenTrad/LSTPopView
+
+下载下来请pod install或者pod update
